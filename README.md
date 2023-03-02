@@ -41,7 +41,6 @@ GIF created with GiphyCapture
 
 ## Notes
 
-I am having issues with the tap gesture. I am still trying to resolve this and will submit once I figure out why it is not working.
 
 ## License
 
